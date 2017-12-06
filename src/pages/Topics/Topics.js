@@ -19,7 +19,7 @@ class Topics extends Component {
                     </li>
                     <li>
                         <Link to={`${this.props.match.url}/props-v-state`}>
-                            Props v. State
+                            1234ffffff
                         </Link>
                     </li>
                 </ul>
